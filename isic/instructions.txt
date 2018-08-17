@@ -1,0 +1,6 @@
+0. Change to working directory (this directory)
+1. sudo apt-get install libnet1
+2. sudo apt-get install iperf
+2. sudo make
+3. sudo make install
+4. make clean
